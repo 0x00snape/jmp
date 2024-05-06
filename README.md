@@ -4,7 +4,7 @@ JMP is a simple rust tool that makes easy to navigate to a directory in the file
 ## Quick-Install
 <b> Getting rust binary </b>
 ```bash
-git clone
+git clone https://github.com/0x00snape/jmp.git
 cd jmp
 cargo build --release 
 ```
