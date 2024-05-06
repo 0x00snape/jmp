@@ -9,7 +9,7 @@ cd jmp
 cargo build --release 
 ```
 
-<b> Sourcing the rust binary to .bashrc add this function </b>
+<b> Sourcing the rust binary to .bashrc "add this function" </b>
 ```bash
   jmp() {
 	  cd "$(~/jmp/target/release/jmp $1)"  
